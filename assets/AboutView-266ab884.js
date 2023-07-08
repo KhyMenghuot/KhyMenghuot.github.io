@@ -1,1 +1,0 @@
-import{_ as t,r as s,o as n,c as a,a as _,F as c,b as e}from"./index-366732c0.js";const r={},l=e("div",{class:"about"},[e("h1",null,"This is an about page")],-1),u=e("footer",null,null,-1);function i(p,d,f,m,V,b){const o=s("RouterView");return n(),a(c,null,[l,u,_(o)],64)}const v=t(r,[["render",i]]);export{v as default};
